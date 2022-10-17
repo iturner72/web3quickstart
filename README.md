@@ -46,9 +46,17 @@
 * When the transaction is confirmed, you can now head to https://ens.domains/
 * Once here click on the "Go to app" button in the top right of the screen.
 * Now you can search for an ENS name. In this example I will be registering the
-    name fbeltran.eth.
+    name cgutierrez.eth.
 * If the name is available, we can continue as shown in the gifs below:
 ![](https://github.com/iturner72/web3quickstart/blob/main/ens0.gif)
 ![](https://github.com/iturner72/web3quickstart/blob/main/ens1.gif)
 ![](https://github.com/iturner72/web3quickstart/blob/main/ens2.gif)
 ![](https://github.com/iturner72/web3quickstart/blob/main/ens3.gif)
+### Edit Record
+* One of the core features available through your ENS name is the ability to
+    edit the text record. This is useful for you to link your portfolio, email,
+    twitter, and most importantly your various crypto wallet addresses.
+* The gifs below show the steps to do so. It is important to remember that each
+    time you write to the Ethereum blockchain, a transaction accompanies it.
+    This means that you pay a small ammount to edit your text record as well as
+    gas fees at the time of your transaction.
