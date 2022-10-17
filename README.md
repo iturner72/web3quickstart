@@ -43,6 +43,8 @@
     and other factors; this leaves random times that average to about 10 min on
     BTC, and *not sure* on ETH network. It can be strange the first time you see
     your transaction seemingly frozen in cyberspace.
+
+### Step Four: Register your ENS name
 * When the transaction is confirmed, you can now head to https://ens.domains/
 * Once here click on the "Go to app" button in the top right of the screen.
 * Now you can search for an ENS name. In this example I will be registering the
