@@ -47,6 +47,6 @@
 * Once here click on the "Go to app" button in the top right of the screen.
 * Now you can search for an ENS name. In this example I will be registering the
     name fbeltran.eth.
-* If the name is available, we can continue as shown in the gifs below.
+* If the name is available, we can continue as shown in the gifs below:
 ![](https://github.com/iturner72/web3quickstart/blob/main/ens1mov.gif)
 ![](https://github.com/iturner72/web3quickstart/blob/main/ens2mov.gif)
