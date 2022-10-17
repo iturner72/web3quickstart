@@ -11,7 +11,7 @@
     you will generate the same one as someone else. There are around 10^77
     different possibilities for a Bitcoin private key.
 * Think of 12 words and write them down on a piece of paper. It is probably best
-    if the 12 words are disjoint and do not form a sentence or song.
+    if the 12 words are disjoint and do not form a sentence or song lyrics.
 
 ### Step Two: Create Hot-Wallet
 * This private key that we just geneated will now be used to create a
@@ -56,7 +56,13 @@
 * One of the core features available through your ENS name is the ability to
     edit the text record. This is useful for you to link your portfolio, email,
     twitter, and most importantly your various crypto wallet addresses.
-* The gifs below show the steps to do so. It is important to remember that each
-    time you write to the Ethereum blockchain, a transaction accompanies it.
-    This means that you pay a small ammount to edit your text record as well as
-    gas fees at the time of your transaction.
+* It is important to remember that each time you write to the Ethereum
+    blockchain, a transaction accompanies it. This means that you pay a small
+    ammount to edit your text record as well as gas fees at the time of your
+    transaction.
+* Follow the same process of signing the transaction with your hot-wallet as you
+    did to register your ENS. Just click the "edit record" button to get
+    started.
+* Make sure to follow the exact format specified for links, otherwise it will
+    not work and you will need to edit it again, which of course, means another
+    transaction.
