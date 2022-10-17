@@ -48,7 +48,5 @@
 * Now you can search for an ENS name. In this example I will be registering the
     name fbeltran.eth.
 * If the name is available, we can continue as shown in the gifs below.
-<br />
 ![](https://github.com/iturner72/web3quickstart/blob/main/ens1mov.gif)
-<br />
 ![](https://github.com/iturner72/web3quickstart/blob/main/ens2mov.gif)
