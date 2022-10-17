@@ -8,7 +8,8 @@
 
 ### Step One: Generate Private Key
 * The coolest thing about a private key is the astronomically small chance that
-    you will generate the same one as someone else.
+    you will generate the same one as someone else. There are around 10^77
+    different possibilities for a Bitcoin private key.
 * Think of 12 words and write them down on a piece of paper. It is probably best
     if the 12 words are disjoint and do not form a sentence or song.
 
@@ -47,3 +48,4 @@
 * Now you can search for an ENS name. In this example I will be registering the
     name fbeltran.eth.
 * If the name is available, we can continue as shown in the gifs below.
+![](https://github.com/iturner72/web3quickstart/blob/main/ens1mov.gif)
